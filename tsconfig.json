@@ -10,7 +10,6 @@
     "outDir": "./dist"
   },
   "files": [
-    "typings/index.d.ts",
     "index.ts"
   ],
   "exclude": [
